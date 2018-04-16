@@ -16,8 +16,7 @@ Ejemplo:
 ## Listado:
 
 Alma Melisa Vázquez López
-
-Alondra Karina Terrones Ramírez 
+ 
 Alondra Karina Terrones Ramírez: [avance 1](https://github.com/AloTerrones/ProyectoFinalBioinf2018-II/blob/master/avance1proyecto.md)
 
 Brenda González Calderón
